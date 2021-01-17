@@ -1,0 +1,17 @@
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.deps.json
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.runtimeconfig.json
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.runtimeconfig.dev.json
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.dll
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.pdb
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.csproj.CoreCompileInputs.cache
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.RazorAssemblyInfo.cache
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.RazorAssemblyInfo.cs
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.AssemblyInfoInputs.cache
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.AssemblyInfo.cs
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.dll
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.pdb
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.csprojAssemblyReference.cache
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Monca\source\repos\EmployeeAnnualSalary\EmployeeAnnualSalary.Api\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.genruntimeconfig.cache
