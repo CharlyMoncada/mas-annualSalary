@@ -1,9 +1,10 @@
 # mas-annualSalary
 
-Netcore: 
-Database - Sql Server
-* dotnet ef migrations add InitialCreate
-* dotnet ef database update
+Backend Netcore - EmployeeAnnualSalary: 
+  Database "Sql Server" - Run commands:
+    * dotnet ef migrations add InitialCreate
+    * dotnet ef database update
 
-React:
-* npm start
+Frontend React - EmployeeAnnualSalary.Front:
+  Install dependencies if is required.
+  * npm start
