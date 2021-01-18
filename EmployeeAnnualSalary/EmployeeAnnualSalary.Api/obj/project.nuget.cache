@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oltsXNeqIlVSMrWqsSMEGzezAcbR02exMev8RQ7U80vcIMTex/1e/Znsa6nSiE+8STBYOPA3ma0Acg9FFIEe9Q==",
+  "dgSpecHash": "VP2Kj40WiNFRmMVkP72zPSqQbk9Nmic+VzCFHKqA7UcWT0lxNQfVs8rG2zhnGj15+Dene665996YMAwxQkp9Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
+  "projectFilePath": "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monca\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Monca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

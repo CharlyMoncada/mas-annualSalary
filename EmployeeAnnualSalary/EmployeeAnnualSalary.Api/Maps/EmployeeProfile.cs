@@ -15,7 +15,6 @@ namespace EmployeeAnnualSalary.Api.Maps
                 .ForMember(dest => dest.Id, opts => opts.MapFrom(src => src.Id))
                 .ForMember(dest => dest.FirstName, opts => opts.MapFrom(src => src.Person.FirstName))
                 .ForMember(dest => dest.LastName, opts => opts.MapFrom(src => src.Person.LastName))
-                .ForMember(dest => dest.ContractType, opts => opts.MapFrom(src => Enum.Parse<ContractTypes>(src.Contract.ContractType)))
                 .ForMember(dest => dest.AnnualSalary, opts => opts.MapFrom(src => new ContractFactory().Create(Enum.Parse<ContractTypes>(src.Contract.ContractType)).CalculateAnnualSalary(src.SalaryPerContract)));
         }
     }

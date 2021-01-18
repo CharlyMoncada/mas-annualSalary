@@ -11,7 +11,5 @@ namespace EmployeeAnnualSalary.Api.Domain.Models
         public int Id { get; set; }
 
         public string ContractType { get; set; }
-
-        //public long Mount { get; set; }
     }
 }

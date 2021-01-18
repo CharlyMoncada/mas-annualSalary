@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using EmployeeAnnualSalary.Api.Domain.Enums;
+﻿using EmployeeAnnualSalary.Api.Domain.Enums;
 
 namespace EmployeeAnnualSalary.Api.Business
 {

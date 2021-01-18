@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj": {}
+    "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj": {
+    "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
         "projectName": "EmployeeAnnualSalary.Api",
-        "projectPath": "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
+        "projectPath": "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\EmployeeAnnualSalary.Api.csproj",
         "packagesPath": "C:\\Users\\Monca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monca\\source\\repos\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\obj\\",
+        "outputPath": "C:\\Users\\Monca\\Documents\\Codes\\mas-annualSalary\\EmployeeAnnualSalary\\EmployeeAnnualSalary.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

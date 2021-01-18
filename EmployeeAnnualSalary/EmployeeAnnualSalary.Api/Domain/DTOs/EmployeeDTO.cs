@@ -1,6 +1,4 @@
-﻿using EmployeeAnnualSalary.Api.Domain.Enums;
-
-namespace EmployeeAnnualSalary.Api.Domain.DTOs
+﻿namespace EmployeeAnnualSalary.Api.Domain.DTOs
 {
     public class EmployeeDTO
     {
@@ -9,8 +7,6 @@ namespace EmployeeAnnualSalary.Api.Domain.DTOs
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
-
-        public ContractTypes ContractType { get; set; }
 
         public long AnnualSalary { get; set; }
     }

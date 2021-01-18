@@ -1,0 +1,17 @@
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.deps.json
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.runtimeconfig.json
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.runtimeconfig.dev.json
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.pdb
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\bin\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.pdb
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.csprojAssemblyReference.cache
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.AssemblyInfoInputs.cache
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.AssemblyInfo.cs
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.csproj.CopyComplete
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.dll
+C:\Users\Monca\Documents\Codes\mas-annualSalary\EmployeeAnnualSalary\EmployeeAnnualSalary.Api.Tests\obj\Debug\netcoreapp2.1\EmployeeAnnualSalary.Api.Tests.pdb
